@@ -22,6 +22,7 @@ Please follow these steps diligently to ensure a smooth onboarding process. If y
 
 We look forward to having you on board!
 
-**reviewers (telegram)**
+# **Reviewers (telegram)**
+
 @dalor_dandy @st_michael99
 If you have any questions, you can contact them
