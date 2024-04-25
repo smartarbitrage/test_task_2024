@@ -21,3 +21,7 @@ We greatly appreciate your interest in our company and our working processes. To
 Please follow these steps diligently to ensure a smooth onboarding process. If you have any questions or concerns, feel free to reach out to us.
 
 We look forward to having you on board!
+
+**reviewers (telegram)**
+@dalor_dandy @st_michael99
+If you have any questions, you can contact them
